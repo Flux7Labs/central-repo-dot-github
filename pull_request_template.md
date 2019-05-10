@@ -9,7 +9,7 @@ Task Link: <!-- Provide link to Trello card/GitHub Issue/etc -->
 
 ## Developer Checklist
 - [ ] My change requires a change to the documentation.
-- [ ] I have updated my branch with the lastest changes in master.
+- [ ] I have updated my branch with the latest changes in master.
 - [ ] I have communicated with the team any changes that might affect work in progress. 
 - [ ] I have updated Trello to reflect current state of the feature. 
 
