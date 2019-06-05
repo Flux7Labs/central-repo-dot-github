@@ -24,3 +24,7 @@ Task Link: <!-- Provide link to Trello card/GitHub Issue/etc -->
 ## Context
 
 <!-- Ensure your commit is in compliance with there standards here: https://github.com/Flux7Labs/flux7-wiki/wiki/Flux7-Development-Standards  -->
+
+## Description of Testing Process
+
+<!-- How the changes were tested ( this can be a unit test or a functional test depending on the changes ) -->
